@@ -1,8 +1,8 @@
-Vaja 2: API
+TODO API
 
 ## About
 - **Description**:
-Preprost API za TODO aplikacijo.
+Simple API for TODO app.
 
 ## Development and testing
 - **Set up developing enviroment** (only the first time):
